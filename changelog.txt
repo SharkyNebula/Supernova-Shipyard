@@ -1,0 +1,21 @@
+V226: Static shields update online. Every ship now has shields again, down to 566mb. The Hyperioids now have shields. Red Shields for Bureau Bullfrog and Salamander variants added. Resquishening has reduced .rez file count to 72 files.
+
+V235: Targets updated. You now have two types of targets available: Real Targets and Scan Line Targets. Target Views have been replaced and are now only present in the info pictures.
+
+Replicant ships added. They can be found in the Wild Geese system.
+
+Playable Escape Pod re-painted. Valkyrie and Starscreamers are now painted. Golden Valkyrie added.
+
+Non-playable Escape Pod has a new model and is called the Survival Module.
+
+Rebellion is now called Insurgency. Vell-os is now called Olympians. Cargo Drone is now called Civilian Porter. Nova Escape Pod is now called Civilian Firefly. Castellan is now called Dechanik. Claymore is now called Gjinchar. Siegfried is now called Ytrack. Nova company names in ship names have been replaced with "Civilian".
+
+Aerolith Static Shields have been darkened to a richer lavender. Central Hyperioid effects are now white. Sigma and Insurgent ships now have non-darkened shields. Hyperioids now have darkened instead of desaturated shields.  Fitted Shields plug-in has been deshadowed (the ship shadows that punch a hole in the shield to let you see the ship have been removed) and desaturated or darkened as appropriate.
+
+Insurgent ships now have glowing Grav Missiles.
+
+Pirate Terrapin/Chelonian/Tessen/Firespray's Pierce Rocket Pods are reduced in size by half. Civilian Terrapin/Chelonian/Tessen's Pierce Rocket Pods have been replaced with Fierce Rockets. Pirate Firespray's Ion Cannon now glows. Civilian Pegasus now has a Fierce Rocket Pod while the Pirate Pegasus now has a Radar Missile Launcher. 
+ 
+Mrxak's CoFroSpobsHiFi has been included to let you see the ships next to more appropriately scaled planets. 
+
+The game's UI now points to the Amaranth font. You can find the font file in the folder.

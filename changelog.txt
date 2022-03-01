@@ -18,4 +18,4 @@ Pirate Terrapin/Chelonian/Tessen/Firespray's Pierce Rocket Pods are reduced in s
  
 Mrxak's CoFroSpobsHiFi has been included to let you see the ships next to more appropriately scaled planets. 
 
-The game's UI now points to the Amaranth font. You can find the font file in the folder.
+V244: Status bar font is now Georgia. Fighters are now small. To revert, remove the SN-Small files from the Plug-in folder. Anti-shield and balanced projectiles have been added. Void and Exterior Hyperioids added. Wireframe targets are now available. Manta slimmed down. Wraith now have their arms bend into a beam-projecting-appropriate position. Replicant ships re-greebled in a non-mirrored, less dense and more thoughtful way.

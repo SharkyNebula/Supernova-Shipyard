@@ -9,8 +9,5 @@ License: CC BY-NC-SA 4.0
 
 Files: *\Nova?Plug-ins\CoFroSpobsHiFi.rez
 Copyright: mrxak <@mrxak#7497>
-License: Uploaded on Discord for community use, no license implied
-
-Files: *\Amaranth-Regular.ttl
-Copyright: Gesine Todt
-License: Open Font License
+License: CC0
+Source: https://github.com/mrxak/mrxak-Blender-Spob-Generator

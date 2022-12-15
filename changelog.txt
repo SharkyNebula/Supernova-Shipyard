@@ -19,3 +19,7 @@ Pirate Terrapin/Chelonian/Tessen/Firespray's Pierce Rocket Pods are reduced in s
 Mrxak's CoFroSpobsHiFi has been included to let you see the ships next to more appropriately scaled planets. 
 
 V244: Status bar font is now Georgia. Fighters are now small. To revert, remove the SN-Small files from the Plug-in folder. Anti-shield and balanced projectiles have been added. Void and Exterior Hyperioids added. Wireframe targets are now available. Manta slimmed down. Wraith now have their arms bend into a beam-projecting-appropriate position. Replicant ships re-greebled in a non-mirrored, less dense and more thoughtful way.
+
+V246: 100+ weapons. Every ship should have a loadout now. Watch them fight.
+
+V248: Two new Auroran Warships: Seraph and Mandibles. Scarab Remodelled. Hyperioids re-rendered without LASIK and with more saturated colours. Golden Valkyrie and Starscreamer have cyan shield.

@@ -10,6 +10,8 @@ A total conversion for viewing new graphics and seeing NPC ships fight with them
 
 A plug-in for the base EV Nova scenario. If you place these plug-ins into your Nova Plug-ins folder, overwriting the base scenario, things **WILL** look funky.
 
+A total conversion that remakes the EV Nova universe while including the Supernova Shipyard designs. If you want that, wait for EVN: Triskelion.
+
 ### System requirements:
 
 Base: 0.65GB of RAM.

@@ -1,10 +1,12 @@
 This mod brings Escape Velocity ship graphics to the next level with boosted ship sizes, as well as unique shields, engine glows, running lights, visually appropriate weapon exit points, and weapon glows for every ship.
 
+[See available ships and art breakdown at my Github wiki.](https://github.com/NebulaTank/Supernova-Shipyard-Wiki/wiki/1-Ship-Index)
+
 [Nexusmods Page](https://www.nexusmods.com/escapevelocitynova/mods/5). 
 
 ### What this _is_:
 
-A total conversion for viewing new graphics and seeing NPC ships fight with them. There are 224 ships in total. 76 are unique. 148 are factional variants.
+A total conversion for viewing new graphics and seeing NPC ships fight with them. There are 245 ships in total. 85 are unique. 161 are factional variants.
 
 ### What this _isn't_:
 
@@ -19,6 +21,8 @@ Animated Hyperioids: +0.2GB of RAM.
 Fitted shields: +0.45GB of RAM.
 Total: 1.3GB of RAM.
 
+WinNova will crash if it has to load ~1GB, so don't load everything at once.
+
 ### How to install (Windows): 
 
 1) Copy and Paste your EV Nova folder.
@@ -31,25 +35,30 @@ Total: 1.3GB of RAM.
 
 ### Where do I find the ships:
 
-* You can find **Federation** ships fighting in the **Clementine** system. This is the system you start in.
-* **Auroran** ships, **Tangerine** system.
-* **Polaris** ships, **Orange** system.
-* **Wild Geese** ships, **Grapefruit** system.
-* **Escape Velocity** ships, **Dekopon** system.
-* **United Earth** ships, **Lemon** system.
-* **Crescent** ships (none yet!), **Lime** system.
+* You can find Federation, Civilian, Pirate and Insurgency ships fighting in the Federation system. This is the system you start in.
+* Auroran Empire, Dani, Heraan, Moash, Tekel and Vella ships are in the Auroran system.
+* Polaris, Nil'kemorya, Hyperioid, Ulterioid, Krypt, Wraith, Olympian and Nephilim ships are in the Polaris system.
+* Wild Geese, Association, Bureau, Domain and Replicant ships are in the Wild Geese system.
+* Escape Velocity: Trader, Criminal, Mercenary, Confed, Rebel and Scourge ships are in the Escape Velocity system.
+* United Earth, Citizen, Militia, Renegade, Voinian, Emalgha, Hinwar and Miranu ships are in the United Earth system.
+* Crescent, Zachit, Strandless, Azdgari, Zidagar, Igadzra and Crescent Renegade ships are in the Crescent system.
 
 ### Can I use this in my own mod:
 
 Yes. The contents of this mod are licensed under the [Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) license](https://creativecommons.org/licenses/by-nc-sa/4.0/). 
 
+Attribution: you must credit me and link to the source of my artwork.
+
 [Read about the implications of ShareAlike](https://wiki.creativecommons.org/wiki/ShareAlike_interpretation). 
 
+The only things that need to be released under the same license are things directly derived from my work. Your own original work does not need to be released under the same license.
+
 [Read about the implications of NonCommercial](https://wiki.creativecommons.org/wiki/NonCommercial_interpretation).
+You are allowed to accept donations or funding. You are allowed to sell your own work. You are not allowed to sell my work or derivatives of my work, but it can be included alongside a commercial project where the selling point is something original that you've made.
 
 ### Can I make a EV Nova graphics mod with this?
 
-You certainly can. All of the Nova ships or reimagined analogues are present here.
+That's already been done by the BASED DrFiveMinusMinus. You can find it here: [SuperNOVA Graphical Overhaul.](https://www.nexusmods.com/escapevelocitynova/mods/6)
 
 ### I want technical info!
 
@@ -65,15 +74,5 @@ That spreadsheet contains the following sheets:
 * Sizes Stats: the placeholder stats I assigned to ship size categories
 * Width/Length: a sheet for deriving the lore width, length and height of each ship
 
-### I want to view the 3D models.
-You can view the 3D models at [Sketchfab](https://sketchfab.com/NebulaTank/collections).
-
-### I want to 3D print the 3D models.
-You can download the 3D models at [Sketchfab](https://sketchfab.com/NebulaTank/collections) for 3D printing. The only thing in those files are the ships themselves.
-
 ### I want the Novalike camera angles for rendering.
 You can find them at [GitHub](https://github.com/NebulaTank/Supernova-Shipyard-Source). Here's the [Ship Template](https://github.com/NebulaTank/Supernova-Shipyard-Source/blob/main/Blends-%20Ships/Ship%20Template.blend).
-
-### I want to view a gallery of the shipyard info images.
-
-You can find such a gallery at [Deviantart](https://www.deviantart.com/nebulatank/gallery/75126808/spaceship-showcases).
